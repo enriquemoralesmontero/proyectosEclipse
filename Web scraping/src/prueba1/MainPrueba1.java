@@ -9,7 +9,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- * @version 1
+ * @version 2
  * @author diurno
  */
 public class MainPrueba1 {
